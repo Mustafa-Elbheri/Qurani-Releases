@@ -1,7 +1,7 @@
 ﻿{
-  "versionCode": 4,
-  "versionName": "1.3",
-  "releaseNotes": "إضافة المصحف المُرقم للمكفوفين وقارئات الشاشة، وإصلاح قراءة أزرار التفسير، وتحسينات في الأداء وسرعة التصفح.",
-  "apkUrl": "https://github.com/Mustafa-Elbheri/Qurani-Releases/releases/download/v1.3/Qurani.apk",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "releaseNotes": "إضافة المصحف المُرقم للمكفوفين، وإصلاح أزرار التفسير، وتحسينات في الأداء وسرعة التصفح.",
+  "apkUrl": "https://github.com/Mustafa-Elbheri/Qurani-Releases/releases/download/v1.4/Qurani.apk",
   "apkSize": 18258091
 }
