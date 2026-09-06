@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "releaseNotes": "إضافة أحكام التجويد لحفص دون إنترنت، وإضافة إعراب الآية من أربعة كتب مع كتاب التبيان مضمنا افتراضيا، وتحسين الوصول والنسخ والمشاركة، وإخفاء ملفات المصاحف المحملة من مشغلات الصوت، وتحسين موضع زر الإعدادات.",
-  "apkUrl": "https://github.com/Mustafa-Elbheri/Qurani-Releases/releases/download/v1.6/Qurani.apk",
-  "apkSize": 16681981
+  "versionCode": 8,
+  "versionName": "1.6.1",
+  "releaseNotes": "تحديث كبير يضيف المصحف المرقم، 93 قارئًا ومصحفًا، إذاعات جديدة، المتشابهات، أحكام التجويد، إعراب القرآن، وتحسينات شاملة للتفاسير والمشغل المحلي وإمكانية التحديث.",
+  "apkUrl": "https://github.com/Mustafa-Elbheri/Qurani-Releases/releases/download/v1.6.1/Qurani.apk",
+  "apkSize": 16682182
 }
