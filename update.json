@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "releaseNotes": "تحسين مشغل الملفات المحلية، وحفظ آخر 20 عنصرًا للاستماع والقراءة، وإضافة نافذة المتشابهات، وتوسيع مكتبة القراء والمصاحف، وتحسين رسالة التحقق من التحديثات.",
-  "apkUrl": "https://github.com/Mustafa-Elbheri/Qurani-Releases/releases/download/v1.5/Qurani.apk",
-  "apkSize": 15258034
+  "versionCode": 7,
+  "versionName": "1.6",
+  "releaseNotes": "إضافة أحكام التجويد لحفص دون إنترنت، وإضافة إعراب الآية من أربعة كتب مع كتاب التبيان مضمنا افتراضيا، وتحسين الوصول والنسخ والمشاركة، وإخفاء ملفات المصاحف المحملة من مشغلات الصوت، وتحسين موضع زر الإعدادات.",
+  "apkUrl": "https://github.com/Mustafa-Elbheri/Qurani-Releases/releases/download/v1.6/Qurani.apk",
+  "apkSize": 16681981
 }
